@@ -1,7 +1,7 @@
  Hi, I’m Rutuja Soundale a third year engineering student
- I’m interested in development using java and springboot
- I’m currently learning  core java with DSA and familiar with Springboot
- I’m looking to collaborate on java full stack projetcs
+ I’m currently learning  core java with DSA and familiar with Machine learning , Python ,
+ Springboot,Flask and react(basic-intermediate)
+ I am looking to collaborate and contribute to interesting ML and full stack projects.
  How to reach me ...rutujasoundale693@gmail.com
  Pronouns: she/her
 
