@@ -1,6 +1,7 @@
 # Hi 👋 I'm Rutuja Soundale
 
 🎓 B.Tech in Electronics and Telecommunication Engineering
+
 🧠 Double Minor in Artificial Intelligence and Data Science
 
 I enjoy problem solving, building AI systems, and writing code.
@@ -45,10 +46,14 @@ I am currently exploring AI applications, computer vision, and software developm
 
  REST APIs| Google Cloud Console|OpenCV|Vision Agents|MySQL
 
-Tools
+### Tools
 
 Git | GitHub | VS Code | IntelliJ IDEA
 
+
+### CORE CONCEPTS
+
+OOPS|CORE JAVA|Database Connectivity|API Integration|Springboot(basics)|AWS(basics)
 ---
 
 # 📂 Featured Project
