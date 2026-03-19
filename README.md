@@ -79,9 +79,7 @@ Project Repository:
 ---
 
 # 📊 Coding Practice
-
-• 60+ problems solved on **LeetCode**
-• 50+ problems solved on **GeeksforGeeks**
+---
 (Key Areas: Arrays, String ,Recursion ,Stack)
 ---
 
