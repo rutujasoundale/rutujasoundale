@@ -4,6 +4,7 @@
 
 🧠 Double Minor in Artificial Intelligence and Data Science
 
+
 I enjoy problem solving, building AI systems, and writing code.
 I am currently exploring AI applications, computer vision, and software development.
 
