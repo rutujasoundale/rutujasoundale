@@ -66,9 +66,8 @@ Project Repository:
 ---
 
 # 📊 Coding Practice
----
 (Key Areas: Arrays, String ,Recursion ,Stack)
----
+
 
 # 🌐 Connect With Me
 
