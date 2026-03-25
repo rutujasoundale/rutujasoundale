@@ -48,19 +48,13 @@ SafeSurf is a browser extension integrated with an AI backend that analyzes web 
 
 #🔧 Progress & Features
 
-• Built an AI-powered browser security extension for real-time threat detection
+• Building an AI-powered browser extension for real-time phishing & threat detection
 
 • Implemented Gemini (gemini-2.5-flash) based detection using API integration
 
 • Developing malicious script analysis for hidden threat detection (working on behavior-based identification)
 
 • Working on prompt injection & AI-based attack prevention as AI adoption increases across websites
-
-• Integrating Flask backend with Chrome Extension for seamless communication
-
-• Improving real-time page scanning & response speed with a risk scoring system (based on data leaks & prompt threats)
-
-• Planning to add cookie tracking & privacy monitoring 
 
 
 Technologies used:
