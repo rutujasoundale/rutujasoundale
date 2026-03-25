@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rutuja Soundale
 
-🎓 B.Tech in Electronics and Telecommunication Engineering
+🎓 B.Tech in Electronics and Telecommunication Engineering(2023-2027)
 
 🧠 Double Minor in Artificial Intelligence and Data Science
 
@@ -26,11 +26,11 @@ I am currently exploring AI applications, computer vision, and software developm
 
 ### Programming Languages
 
- Java|Python|Javascript
+ Java | Python
 
 ### Technologies
 
- REST APIs| Google Cloud Console|OpenCV|Vision Agents|MySQL|Flask
+ REST APIs | OpenCV |Vision Agents | MySQL| Flask| Gemini API 
 
 ### Tools
 
@@ -38,28 +38,29 @@ Git | GitHub | VS Code | IntelliJ IDEA
 
 ### CORE CONCEPTS
 
-OOPS|CORE JAVA|Database Connectivity|API Integration|
+OOPS|CORE JAVA|Database Connectivity|API Integration|Cybersecurity
     ---
 
-# 📂 Featured Project
-
-### 🚗 AI Driver Drowsiness Detection System
-
-A real-time AI system that monitors a driver's face and detects fatigue using computer vision.
-
-Features:
-
-• Eye Aspect Ratio (EAR) based eye-closure detection
-• Mouth Aspect Ratio (MAR) based yawning detection
-• Real-time facial landmark detection
-• Vision-Agent based decision logic
+# 📂 Currently Working On
+# SafeSurf
+SafeSurf is a browser extension integrated with an AI backend that analyzes web pages, scripts, 
+and user inputs to detect phishing, prompt injection, and cyber threats instantly.
+-Built an AI-powered browser security extension for real-time threat detection
+-Implemented gemini-2.5-flash based detection and used Gemini API calls 
+-Implementing malicious script analysis to identify hidden threats(Im also working on beahviour based identification )
+-Working on prompt injection & AI-based attack prevention(As many websites are using AI and AI tools)
+-Integrating Flask backend with Chrome Extension
+-Improving real-time page scanning and response speed(Risk score based on leak and prompt detection)
+-Looking forward to add Cookie tracking
 
 Technologies used:
 
-Python • OpenCV • MediaPipe • Vision Agents
+Flask • Javascript • Gemini API • Gemini-2.5-flash •Chrome Extension API (JavaScript)
+
+Security Focus: Phishing, Prompt Injection, Malware Analysis,Cookie management
 
 Project Repository:
-👉 https://github.com/rutujasoundale/driver-drowsiness-detection
+👉 https://github.com/rutujasoundale/SafeSurf
 
 ---
 
