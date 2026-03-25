@@ -41,20 +41,22 @@ Git | GitHub | VS Code | IntelliJ IDEA
 OOPS|CORE JAVA|Database Connectivity|API Integration|Cybersecurity
     ---
 
-# 📂 Currently Working On
-# SafeSurf
-### SafeSurf is a browser extension integrated with an AI backend that analyzes web pages, scripts, 
- and user inputs to detect phishing, prompt injection, and cyber threats instantly.
-### -Built an AI-powered browser security extension for real-time threat detection
-### -Implemented gemini-2.5-flash based detection and used Gemini API calls 
-### -Implementing malicious script analysis to identify hidden threats(Im also working on beahviour based identification )
-### -Working on prompt injection & AI-based attack prevention(As many websites are using AI and AI tools)
-### -Integrating Flask backend with Chrome Extension
-### -Improving real-time page scanning and response speed(Risk score based on leak and prompt detection)
-### -Looking forward to add Cookie tracking
+📂 Currently Working On
+🚀 SafeSurf
+
+SafeSurf is a browser extension integrated with an AI backend that analyzes web pages, scripts, and user inputs to detect phishing, prompt injection, and cyber threats in real time.
+
+🔧 Progress & Features
+• Built an AI-powered browser security extension for real-time threat detection
+• Implemented Gemini (gemini-2.5-flash) based detection using API integration
+• Developing malicious script analysis for hidden threat detection (working on behavior-based identification)
+• Working on prompt injection & AI-based attack prevention as AI adoption increases across websites
+• Integrating Flask backend with Chrome Extension for seamless communication
+• Improving real-time page scanning & response speed with a risk scoring system (based on data leaks & prompt threats)
+• Planning to add cookie tracking & privacy monitoring 
+
 
 Technologies used:
-
 Flask • Javascript • Gemini API • Gemini-2.5-flash •Chrome Extension API (JavaScript)
 
 Security Focus: Phishing, Prompt Injection, Malware Analysis,Cookie management
