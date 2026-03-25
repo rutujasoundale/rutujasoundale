@@ -43,15 +43,15 @@ OOPS|CORE JAVA|Database Connectivity|API Integration|Cybersecurity
 
 # 📂 Currently Working On
 # SafeSurf
-SafeSurf is a browser extension integrated with an AI backend that analyzes web pages, scripts, 
-and user inputs to detect phishing, prompt injection, and cyber threats instantly.
--Built an AI-powered browser security extension for real-time threat detection
--Implemented gemini-2.5-flash based detection and used Gemini API calls 
--Implementing malicious script analysis to identify hidden threats(Im also working on beahviour based identification )
--Working on prompt injection & AI-based attack prevention(As many websites are using AI and AI tools)
--Integrating Flask backend with Chrome Extension
--Improving real-time page scanning and response speed(Risk score based on leak and prompt detection)
--Looking forward to add Cookie tracking
+### SafeSurf is a browser extension integrated with an AI backend that analyzes web pages, scripts, 
+ and user inputs to detect phishing, prompt injection, and cyber threats instantly.
+### -Built an AI-powered browser security extension for real-time threat detection
+### -Implemented gemini-2.5-flash based detection and used Gemini API calls 
+### -Implementing malicious script analysis to identify hidden threats(Im also working on beahviour based identification )
+### -Working on prompt injection & AI-based attack prevention(As many websites are using AI and AI tools)
+### -Integrating Flask backend with Chrome Extension
+### -Improving real-time page scanning and response speed(Risk score based on leak and prompt detection)
+### -Looking forward to add Cookie tracking
 
 Technologies used:
 
