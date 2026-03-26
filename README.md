@@ -17,9 +17,9 @@ I am currently exploring AI applications, computer vision, and software developm
 
 • Enjoy building practical projects that combine AI + software development
 
----
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rutujasoundale=anuraghazra&hide=contribs,prs)
----
+
 
 # 💻 Skills
 
