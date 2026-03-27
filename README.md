@@ -20,6 +20,7 @@ I am currently exploring AI applications, computer vision, and software developm
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/rutujasoundale=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/rutujasoundale=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 # 💻 Skills
