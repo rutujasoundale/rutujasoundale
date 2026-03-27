@@ -23,7 +23,6 @@ Currently exploring AI applications, Computer Vision, and Backend Development.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujasoundale&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujasoundale&layout=compact&theme=dark)
-
 ---
 
 ## 💻 Skills
