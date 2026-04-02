@@ -4,14 +4,14 @@
 🧠 Double Minor in Artificial Intelligence and Data Science  
 
 I enjoy solving problems, building AI systems, and developing scalable software.  
-Currently exploring AI applications, Computer Vision, and Backend Development.
+Currently exploring Core java,(Springboot) Backend Development and integrating AI.
 
 ---
 
 ## 🚀 About Me
 
 • Passionate about solving real-world problems using technology  
-• Interested in AI, Computer Vision, and Backend Systems  
+• Interested in AI, machine learning and Backend Systems  
 • Love building practical AI + software projects  
 
 ---
@@ -38,7 +38,7 @@ REST APIs | OpenCV | MySQL | Flask | Gemini API
 Git | GitHub | VS Code | IntelliJ IDEA  
 
 ### Core Concepts
-OOP | Core Java | DB Connectivity | API Integration | Cybersecurity  
+OOP | Core Java | DB Connectivity | API Integration | Cybersecurity|Springboot(basic)
 
 ---
 
@@ -62,9 +62,10 @@ Phishing | Prompt Injection | Malware Analysis | Cookie Management
 
 ---
 
-## 📊 Coding Practice
+## 📊 Problem Solving using JAVA
 
-Key Areas: Arrays | Strings | Recursion | Stack | HashMaps  
+Key Areas: Arrays | Strings | Recursion | Stack | HashMaps
+Learning diary:https://github.com/rutujasoundale/leetcode-gfg-problems
 
 ---
 
