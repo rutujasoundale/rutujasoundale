@@ -22,7 +22,6 @@ Currently exploring Core java,(Springboot) Backend Development and integrating A
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rutujasoundale&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rutujasoundale&layout=compact&theme=tokyonight)
 
 ---
 
