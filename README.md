@@ -1,15 +1,7 @@
 Bug hunter and backend enthusiast
 
-
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rutujasoundale&theme=dark)
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rutujasoundale&show_icons=true&theme=tokyonight)
-
----
 
 ## 💻 Skills
 
