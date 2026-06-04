@@ -4,7 +4,7 @@
 🧠 Double Minor in Artificial Intelligence and Data Science  
 
 I enjoy solving problems, building AI systems, and developing scalable software.  
-Currently exploring Core java,(Springboot) Backend Development and integrating AI.
+Currently exploring Cybersecurity,Core java,(Springboot) Backend Development and integrating AI.
 
 
 
