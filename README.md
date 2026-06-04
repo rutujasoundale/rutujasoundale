@@ -3,20 +3,6 @@ Bug hunter and backend enthusiast
 ---
 
 
-## 💻 Skills
-
-### Programming
-Java | Python  
-
-### Technologies
-REST APIs | OpenCV | MySQL | Flask | Gemini API    
-
-### Tools
-Git | GitHub | VS Code | IntelliJ IDEA  
-
-### Core Concepts
-OOP | Core Java | DB Connectivity | API Integration | Cybersecurity 
-
 ---
 
 ## 📂 Current Project: SafeSurf 🚀
