@@ -1,3 +1,1 @@
-Bug hunter and backend enthusiast
-
-
+AI | Linux | Backend
