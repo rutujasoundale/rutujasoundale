@@ -1,9 +1,5 @@
 Bug hunter and backend enthusiast
 
----
-
-
----
 
 ## 📂 Current Project: SafeSurf 🚀
 
