@@ -1,12 +1,4 @@
-# Hi 👋 I'm Rutuja Soundale
-
-🎓 B.Tech in Electronics and Telecommunication Engineering (2023–2027)  
-🧠 Double Minor in Artificial Intelligence and Data Science  
-
-I enjoy solving problems, building AI systems, and developing scalable software.  
-Currently exploring Cybersecurity,Core java,(Springboot) Backend Development and integrating AI.
-
-
+Bug hunter and backend enthusiast
 
 
 ---
@@ -25,7 +17,7 @@ Currently exploring Cybersecurity,Core java,(Springboot) Backend Development and
 Java | Python  
 
 ### Technologies
-REST APIs | OpenCV | MySQL | Flask | Gemini API   
+REST APIs | OpenCV | MySQL | Flask | Gemini API    
 
 ### Tools
 Git | GitHub | VS Code | IntelliJ IDEA  
@@ -57,7 +49,6 @@ Phishing | Prompt Injection | Malware Analysis | Cookie Management
 
 ## 📊 Problem Solving using JAVA
 
-Key Areas: Arrays | Strings | Recursion | Stack | HashMaps
 
 Learning diary:https://github.com/rutujasoundale/leetcode-gfg-solutions
 
